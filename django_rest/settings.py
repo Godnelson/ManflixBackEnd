@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-cwi08-7&2q#&1kk176nzfh@x1rj!no&)5ntqh&rk48sl+n$w$(
 DEBUG = True
 
 ALLOWED_HOSTS = [
-
+    'manflix.azurewebsites.net'
 ]
 CORS_ALLOW_ALL_ORIGINS = True
 CORS_ORIGIN_ALLOW_ALL = True
